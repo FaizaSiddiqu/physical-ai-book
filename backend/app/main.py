@@ -32,20 +32,11 @@ app = FastAPI(
 )
 
 # CORS middleware
-# Allow specific origins for better security and reliability
-allowed_origins = [
-    "http://localhost:3000",  # Local development
-    "http://localhost:5173",  # Vite dev server
-    "http://127.0.0.1:3000",
-    "http://127.0.0.1:5173",
-    "https://sufyanarain.github.io",  # GitHub Pages
-    "https://faizasiddiqu.github.io",  # GitHub Pages (alternative)
-    "https://physical-ai-backend-production-b62f.up.railway.app",  # Railway backend
-]
-
+# Allow all origins for deployment flexibility
+# In production, you may want to restrict this to specific domains
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
+    allow_origins=["*"],  # Allow all origins
     allow_credentials=False,
     allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
