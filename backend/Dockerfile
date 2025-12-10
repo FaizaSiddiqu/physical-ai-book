@@ -18,5 +18,5 @@ RUN pip install --no-cache-dir -r requirements.txt && \
 # Expose port (Railway will set PORT env variable)
 EXPOSE $PORT
 
-# Start command
-CMD uvicorn app.main:app --host 0.0.0.0 --port $PORT
+# Start command (shell form to expand $PORT)
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port $PORT"]
