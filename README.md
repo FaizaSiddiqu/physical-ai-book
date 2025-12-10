@@ -5,7 +5,7 @@
 
 > A comprehensive, interactive textbook on Physical AI and Humanoid Robotics with RAG chatbot, user authentication, content personalization, and Urdu translation.
 
-**🔗 Live Demo**: [sufyanarain.github.io/physical-ai-book](https://sufyanarain.github.io/physical-ai-book/)
+**🔗 Live Demo**: [sufyanarain.github.io/physical-ai-book](https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/)
 
 ---
 
@@ -172,7 +172,7 @@ git push origin main  # Auto-deploys
 Connected to GitHub - auto-deploys on push.
 
 **URLs:**
-- Frontend: https://sufyanarain.github.io/physical-ai-book/
+- Frontend: https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/
 - Backend: https://physical-ai-backend-production-b62f.up.railway.app
 
 ---

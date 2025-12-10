@@ -7,7 +7,7 @@
 **🏆 Hackathon Score: 300/300 Points**
 
 ### Live Deployments
-- **Frontend**: https://sufyanarain.github.io/physical-ai-book/
+- **Frontend**: https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/
 - **Backend**: https://physical-ai-backend-production-b62f.up.railway.app
 
 ---
@@ -424,7 +424,7 @@ python generate_urdu_docs.py
 
 For questions or issues:
 - GitHub Issues: [Create Issue](https://github.com/sufyanarain/physical-ai-book/issues)
-- Project Link: https://sufyanarain.github.io/physical-ai-book/
+- Project Link: https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/
 
 ---
 

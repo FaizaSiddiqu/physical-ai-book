@@ -345,7 +345,7 @@ These subagents are designed to be **framework-agnostic** and **highly reusable*
 ## 🏆 Success Metrics
 
 **Implemented in**: Physical AI & Humanoid Robotics Textbook
-**Live at**: https://sufyanarain.github.io/physical-ai-book/
+**Live at**: https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/
 **Backend**: https://physical-ai-backend-production-b62f.up.railway.app
 
 **Results**:

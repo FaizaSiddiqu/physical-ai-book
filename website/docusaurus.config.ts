@@ -8,10 +8,10 @@ const config: Config = {
   tagline: 'Master the future of embodied intelligence',
   favicon: 'img/favicon.ico',
 
-  url: 'https://sufyanarain.github.io',
+  url: 'https://github.com/FaizaSiddiqu/physical-ai-book',
   baseUrl: '/physical-ai-book/',
 
-  organizationName: 'sufyanarain',
+  organizationName: ' fiza',
   projectName: 'physical-ai-book',
 
   onBrokenLinks: 'throw',
@@ -47,7 +47,7 @@ const config: Config = {
         path: 'docs-software',
         routeBasePath: 'docs-software',
         sidebarPath: './sidebars.ts',
-        editUrl: 'https://github.com/sufyanarain/physical-ai-book/tree/main/website/',
+        editUrl: 'https://github.com/FaizaSiddiqu/physical-ai-book',
       },
     ],
     [
@@ -57,7 +57,7 @@ const config: Config = {
         path: 'docs-hardware',
         routeBasePath: 'docs-hardware',
         sidebarPath: './sidebars.ts',
-        editUrl: 'https://github.com/sufyanarain/physical-ai-book/tree/main/website/',
+        editUrl: 'https://github.com/FaizaSiddiqu/physical-ai-book',
       },
     ],
     [
@@ -67,7 +67,7 @@ const config: Config = {
         path: 'docs-urdu',
         routeBasePath: 'docs-urdu',
         sidebarPath: './sidebars-urdu.ts',
-        editUrl: 'https://github.com/sufyanarain/physical-ai-book/tree/main/website/',
+        editUrl: 'https://github.com/FaizaSiddiqu/physical-ai-book',
       },
     ],
     [
@@ -77,7 +77,7 @@ const config: Config = {
         path: 'docs-urdu-software',
         routeBasePath: 'docs-urdu-software',
         sidebarPath: './sidebars-urdu.ts',
-        editUrl: 'https://github.com/sufyanarain/physical-ai-book/tree/main/website/',
+        editUrl: 'https://github.com/FaizaSiddiqu/physical-ai-book',
       },
     ],
     [
@@ -87,7 +87,7 @@ const config: Config = {
         path: 'docs-urdu-hardware',
         routeBasePath: 'docs-urdu-hardware',
         sidebarPath: './sidebars-urdu.ts',
-        editUrl: 'https://github.com/sufyanarain/physical-ai-book/tree/main/website/',
+        editUrl: 'https://github.com/FaizaSiddiqu/physical-ai-book',
       },
     ],
   ],
@@ -108,7 +108,7 @@ const config: Config = {
           label: 'Textbook',
         },
         {
-          href: 'https://github.com/yourusername/physical-ai-textbook',
+          href: 'https://github.com/FaizaSiddiqu/physical-ai-book',
           label: 'GitHub',
           position: 'right',
         },
@@ -135,7 +135,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/yourusername/physical-ai-textbook',
+              href: 'https://github.com/FaizaSiddiqu/physical-ai-book',
             },
             {
               label: 'Panaversity',
@@ -144,7 +144,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Physical AI Textbook. Created by <strong>Muhammad Sufyan</strong> for Panaversity Hackathon.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Physical AI Textbook. Created by <strong>Faiza Siddiqu</strong> for Panaversity Hackathon.`,
     },
     prism: {
       theme: prismThemes.github,
