@@ -8,10 +8,10 @@ const config: Config = {
   tagline: 'Master the future of embodied intelligence',
   favicon: 'img/favicon.ico',
 
-  url: 'https://github.com/FaizaSiddiqu/physical-ai-book',
+  url: 'https://FaizaSiddiqu.github.io',
   baseUrl: '/physical-ai-book/',
 
-  organizationName: ' fiza',
+  organizationName: 'FaizaSiddiqu',
   projectName: 'physical-ai-book',
 
   onBrokenLinks: 'throw',
