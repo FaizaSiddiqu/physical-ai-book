@@ -1,11 +1,11 @@
 # 🤖 Physical AI & Humanoid Robotics Textbook
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hackathon Score](https://img.shields.io/badge/Score-300%2F300-success)](https://github.com/sufyanarain/physical-ai-book)
+[![Hackathon Score](https://img.shields.io/badge/Score-300%2F300-success)](https://github.com/FaizaSiddiqu/physical-ai-book)
 
 > A comprehensive, interactive textbook on Physical AI and Humanoid Robotics with RAG chatbot, user authentication, content personalization, and Urdu translation.
 
-**🔗 Live Demo**: [sufyanarain.github.io/physical-ai-book](https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/)
+**🔗 Live Demo**: [FaizaSiddiqu.github.io/physical-ai-book](https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/)
 
 ---
 
@@ -271,9 +271,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-- **GitHub**: [@sufyanarain](https://github.com/sufyanarain)
-- **Project**: [physical-ai-book](https://github.com/sufyanarain/physical-ai-book)
-- **Issues**: [Create Issue](https://github.com/sufyanarain/physical-ai-book/issues)
+- **GitHub**: [@FaizaSiddiqu](https://github.com/FaizaSiddiqu)
+- **Project**: [physical-ai-book](https://github.com/FaizaSiddiqu/physical-ai-book)
+- **Issues**: [Create Issue](https://github.com/FaizaSiddiqu/physical-ai-book/issues)
 
 ---
 

@@ -423,7 +423,7 @@ python generate_urdu_docs.py
 ## 👥 Support
 
 For questions or issues:
-- GitHub Issues: [Create Issue](https://github.com/sufyanarain/physical-ai-book/issues)
+- GitHub Issues: [Create Issue](https://github.com/FaizaSiddiqu/physical-ai-book/issues)
 - Project Link: https://github.com/FaizaSiddiqu/physical-ai-book/physical-ai-book/
 
 ---
